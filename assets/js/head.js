@@ -1,22 +1,23 @@
-// Google Analytics 4 Loader
+// Global Head Loader
+// Loads Google Analytics
 
 (function () {
 
   const GA_ID = "G-1ZYLW22XWP";
 
-  const script1 = document.createElement("script");
-  script1.async = true;
-  script1.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID;
-  document.head.appendChild(script1);
+  const gaScript = document.createElement("script");
+  gaScript.async = true;
+  gaScript.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID;
+  document.head.appendChild(gaScript);
 
-  const script2 = document.createElement("script");
-  script2.innerHTML = `
+  const gaConfig = document.createElement("script");
+  gaConfig.innerHTML = `
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', '${GA_ID}');
   `;
 
-  document.head.appendChild(script2);
+  document.head.appendChild(gaConfig);
 
 })();
