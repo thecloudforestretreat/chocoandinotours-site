@@ -99,6 +99,11 @@
   border-color:rgba(255,215,0,.55);
 }
 
+.siteHeader .nav a[aria-current="page"]:not(.navCta){
+  background:rgba(13,89,37,.12);
+  border-color:rgba(13,89,37,.32);
+}
+
 .siteHeader .menuToggle{
   display:none;
   align-items:center;
@@ -142,7 +147,7 @@
     padding:12px;
   }
 
-  .mobileMenu.is-open{
+  .mobileMenu.is-open:not([hidden]){
     display:block;
   }
 
