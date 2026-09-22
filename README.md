@@ -11,7 +11,7 @@ Source repository for [chocoandinotours.com](https://chocoandinotours.com/).
 - The staging hostname is excluded from indexing with a Cloudflare response
   header rule that sets `X-Robots-Tag: noindex, nofollow`.
 
-The approved bilingual page inventory is stored in
-`planning/chocoandinotours-page-plan-2026-09-22.csv`.
+The approved bilingual page inventory is maintained in the
+[Chocó Andino Tours page-plan sheet](https://docs.google.com/spreadsheets/d/1yZYHec767G41iQauQKB4_a61B7X7CTuSSnNnXner9JE/edit?gid=1940166229#gid=1940166229).
 
 See `docs/DEPLOYMENT_WORKFLOW.md` for infrastructure details and launch checks.
