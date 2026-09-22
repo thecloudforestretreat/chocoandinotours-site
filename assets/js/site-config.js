@@ -10,7 +10,7 @@
     stagingOrigin: "https://staging.chocoandinotours.com",
     googleTagManagerId: "GTM-NSBP2KS8",
     googleAnalyticsId: "G-737ZDQNTDX",
-    turnstileSiteKey: "0x4AAAAAACvEWBLDiF38SNlX",
+    turnstileSiteKey: "0x4AAAAAAFAK3qCPK3mSSEPX",
     contactEmail: "mindobirdwatching@gmail.com",
     whatsappNumberDigits: whatsappNumberDigits,
     whatsappMessages: {
