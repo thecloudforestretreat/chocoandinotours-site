@@ -61,8 +61,18 @@ function localizeIncludes() {
     }
   });
 
-  const alternateEn = document.querySelector('link[rel="alternate"][hreflang="en"]')?.href || "/";
-  const alternateEs = document.querySelector('link[rel="alternate"][hreflang="es"]')?.href || "/es/";
+  const alternatePath = (hreflang, fallback) => {
+    const href = document.querySelector(`link[rel="alternate"][hreflang="${hreflang}"]`)?.href;
+    if (!href) return fallback;
+    try {
+      const url = new URL(href);
+      return url.pathname + url.search + url.hash;
+    } catch (error) {
+      return fallback;
+    }
+  };
+  const alternateEn = alternatePath("en", "/");
+  const alternateEs = alternatePath("es", "/es/");
 
   document.querySelectorAll('a[lang="en"]').forEach((link) => {
     link.href = alternateEn;

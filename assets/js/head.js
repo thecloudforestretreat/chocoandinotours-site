@@ -3,6 +3,11 @@
   const config = window.CHOCOTOURS_CONFIG || {};
   const GTM_ID = config.googleTagManagerId;
 
+  const attributionScript = document.createElement("script");
+  attributionScript.src = "/assets/js/attribution.js";
+  attributionScript.defer = true;
+  document.head.appendChild(attributionScript);
+
   if (!GTM_ID || !/^GTM-[A-Z0-9]+$/.test(GTM_ID)) return;
 
   window.dataLayer = window.dataLayer || [];
