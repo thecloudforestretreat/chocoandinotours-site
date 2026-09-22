@@ -4,7 +4,7 @@
   const GTM_ID = config.googleTagManagerId;
 
   const attributionScript = document.createElement("script");
-  attributionScript.src = "/assets/js/attribution.js";
+  attributionScript.src = "/assets/js/attribution.js?v=20260922-1";
   attributionScript.defer = true;
   document.head.appendChild(attributionScript);
 
