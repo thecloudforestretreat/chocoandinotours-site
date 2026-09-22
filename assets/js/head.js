@@ -1,36 +1,31 @@
-// Global Head Loader
-// Google Analytics + basic conversion tracking
-// Works for ALL pages and BOTH sites
-
+// Sitewide Google Tag Manager loader and first-party interaction events.
 (function () {
+  const config = window.CHOCOTOURS_CONFIG || {};
+  const GTM_ID = config.googleTagManagerId;
 
-  const GA_ID = "G-1ZYLW22XWP";
+  if (!GTM_ID || !/^GTM-[A-Z0-9]+$/.test(GTM_ID)) return;
 
-  const gaScript = document.createElement("script");
-  gaScript.async = true;
-  gaScript.src = "https://www.googletagmanager.com/gtag/js?id=" + GA_ID;
-  document.head.appendChild(gaScript);
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({
+    "gtm.start": new Date().getTime(),
+    event: "gtm.js"
+  });
 
-  const gaConfig = document.createElement("script");
-  gaConfig.innerHTML = `
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    window.gtag = gtag;
-    gtag('js', new Date());
-    gtag('config', '${GA_ID}');
-  `;
-  document.head.appendChild(gaConfig);
+  const gtmScript = document.createElement("script");
+  gtmScript.async = true;
+  gtmScript.src = "https://www.googletagmanager.com/gtm.js?id=" + encodeURIComponent(GTM_ID);
+  document.head.appendChild(gtmScript);
 
   window.addEventListener("DOMContentLoaded", function () {
 
     function trackClick(selector, eventName) {
       document.querySelectorAll(selector).forEach(function (el) {
         el.addEventListener("click", function () {
-          if (typeof gtag === "function") {
-            gtag("event", eventName, {
-              page_location: window.location.href
-            });
-          }
+          window.dataLayer.push({
+            event: eventName,
+            page_location: window.location.href,
+            link_url: el.href || ""
+          });
         });
       });
     }
@@ -41,11 +36,11 @@
 
     document.querySelectorAll("a[href*='mindobirdwatching.com']").forEach(function (link) {
       link.addEventListener("click", function () {
-        if (typeof gtag === "function") {
-          gtag("event", "funnel_to_mbw", {
-            destination: link.href
-          });
-        }
+        window.dataLayer.push({
+          event: "funnel_to_mbw",
+          page_location: window.location.href,
+          destination: link.href
+        });
       });
     });
 

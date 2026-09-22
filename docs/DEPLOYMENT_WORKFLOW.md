@@ -45,6 +45,22 @@ before testing booking forms on staging. Never commit secret values to Git.
 - Submit the production sitemap to Search Console only after the complete
   sitemap and production crawl pass are approved.
 
+## Measurement and search ownership
+
+- Google Analytics 4 property: `Choco Andino Tours`
+- GA4 web stream: `Choco Andino Tours Website`
+- GA4 measurement ID: `G-737ZDQNTDX`
+- Google Tag Manager account: `ChocoAndinoTours`
+- GTM web container: `chocoandinotours.com`
+- GTM container ID: `GTM-NSBP2KS8`
+- Google Search Console domain property: `sc-domain:chocoandinotours.com`
+
+The site loads GTM through `assets/js/site-config.js` and
+`assets/js/head.js`. GA4 is configured inside GTM and must not also be loaded
+directly with `gtag.js`, which would duplicate page views. The Search Console
+domain property is DNS verified. Submit `sitemap.xml` only after the final
+production sitemap and crawl audit are approved.
+
 ## Release checklist
 
 - Cloudflare deployment successful
