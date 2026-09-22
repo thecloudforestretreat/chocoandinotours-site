@@ -15,7 +15,9 @@
     whatsappNumberDigits: whatsappNumberDigits,
     whatsappMessages: {
       book_tour_en: "Hi Chocó Andino Tours, I would like to request a private tour or experience in the Chocó Andino. Can you help with availability and next steps?\n\nPage: {url}",
-      book_tour_es: "Hola Chocó Andino Tours, quisiera solicitar un tour privado o una experiencia en el Chocó Andino. ¿Pueden ayudarme con disponibilidad y los próximos pasos?\n\nPágina: {url}"
+      book_tour_es: "Hola Chocó Andino Tours, quisiera solicitar un tour privado o una experiencia en el Chocó Andino. ¿Pueden ayudarme con disponibilidad y los próximos pasos?\n\nPágina: {url}",
+      contact_en: "Hi Chocó Andino Tours, I have a question about visiting the Chocó Andino. Can you help me choose the right next step?\n\nPage: {url}",
+      contact_es: "Hola Chocó Andino Tours, tengo una consulta sobre una visita al Chocó Andino. ¿Pueden ayudarme a elegir el siguiente paso?\n\nPágina: {url}"
     }
   };
 
