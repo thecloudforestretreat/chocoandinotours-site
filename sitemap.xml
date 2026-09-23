@@ -1,11 +1,579 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://chocoandinotours.com/</loc>
-    <lastmod>2026-03-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/" />
+    <lastmod>2026-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
+  <url>
+    <loc>https://chocoandinotours.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/tours/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/tours/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/tours/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/tours/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/tours/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/tours/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/tours/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/tours/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/experiences/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/experiences/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/experiencias/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/experiences/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/experiencias/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/experiences/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/experiencias/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/experiences/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/book-tour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/book-tour/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/reservar-tour/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/book-tour/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/reservar-tour/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/book-tour/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/reservar-tour/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/book-tour/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/contact/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/contacto/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/contact/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/contacto/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/contact/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/contacto/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/contact/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/sobre-nosotros/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/about/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/sobre-nosotros/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/about/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/sobre-nosotros/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/about/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/choco-andino-travel-guide/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-travel-guide/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/guia-de-viaje-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-travel-guide/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/guia-de-viaje-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-travel-guide/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/guia-de-viaje-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-travel-guide/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/choco-andino-biosphere-reserve/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-biosphere-reserve/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/reserva-de-biosfera-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-biosphere-reserve/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/reserva-de-biosfera-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-biosphere-reserve/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/reserva-de-biosfera-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-biosphere-reserve/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/things-to-do-in-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/things-to-do-in-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/que-hacer-en-el-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/things-to-do-in-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/que-hacer-en-el-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/things-to-do-in-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/que-hacer-en-el-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/things-to-do-in-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/choco-andino-day-trip-from-quito/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-day-trip-from-quito/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/excursion-choco-andino-desde-quito/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-day-trip-from-quito/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/excursion-choco-andino-desde-quito/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-day-trip-from-quito/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/excursion-choco-andino-desde-quito/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-day-trip-from-quito/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/private-tours-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/private-tours-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/tours-privados-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/private-tours-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/tours-privados-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/private-tours-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/tours-privados-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/private-tours-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/experiences/cacao-chocolate-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/experiences/cacao-chocolate-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/experiencias/cacao-y-chocolate-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/experiences/cacao-chocolate-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/experiencias/cacao-y-chocolate-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/experiences/cacao-chocolate-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/experiencias/cacao-y-chocolate-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/experiences/cacao-chocolate-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/experiences/coffee-farms-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/experiences/coffee-farms-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/experiencias/fincas-de-cafe-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/experiences/coffee-farms-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/experiencias/fincas-de-cafe-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/experiences/coffee-farms-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/experiencias/fincas-de-cafe-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/experiences/coffee-farms-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/food-and-culture-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/food-and-culture-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/gastronomia-y-cultura-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/food-and-culture-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/gastronomia-y-cultura-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/food-and-culture-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/gastronomia-y-cultura-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/food-and-culture-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/community-tourism-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/community-tourism-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/turismo-comunitario-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/community-tourism-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/turismo-comunitario-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/community-tourism-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/turismo-comunitario-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/community-tourism-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/responsible-travel-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/responsible-travel-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/viaje-responsable-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/responsible-travel-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/viaje-responsable-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/responsible-travel-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/viaje-responsable-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/responsible-travel-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/yumbo-culture-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/yumbo-culture-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/cultura-yumbo-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/yumbo-culture-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/cultura-yumbo-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/yumbo-culture-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/cultura-yumbo-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/yumbo-culture-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/tulipe-archaeological-site/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/tulipe-archaeological-site/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/sitio-arqueologico-tulipe/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/tulipe-archaeological-site/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/sitio-arqueologico-tulipe/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/tulipe-archaeological-site/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/sitio-arqueologico-tulipe/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/tulipe-archaeological-site/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/yunguilla-community-tourism/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/yunguilla-community-tourism/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/turismo-comunitario-yunguilla/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/yunguilla-community-tourism/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/turismo-comunitario-yunguilla/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/yunguilla-community-tourism/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/turismo-comunitario-yunguilla/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/yunguilla-community-tourism/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/pacto-choco-andino-guide/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/pacto-choco-andino-guide/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/guia-pacto-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/pacto-choco-andino-guide/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/guia-pacto-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/pacto-choco-andino-guide/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/guia-pacto-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/pacto-choco-andino-guide/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/nanegalito-choco-andino-guide/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/nanegalito-choco-andino-guide/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/guia-nanegalito-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/nanegalito-choco-andino-guide/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/guia-nanegalito-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/nanegalito-choco-andino-guide/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/guia-nanegalito-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/nanegalito-choco-andino-guide/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/mashpi-pachijal-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/mashpi-pachijal-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/mashpi-pachijal-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/mashpi-pachijal-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/mashpi-pachijal-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/mashpi-pachijal-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/mashpi-pachijal-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/mashpi-pachijal-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/mindo-and-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/mindo-and-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/mindo-y-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/mindo-and-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/mindo-y-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/mindo-and-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/mindo-y-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/mindo-and-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/cloud-forest-waterfalls-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/cloud-forest-waterfalls-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/bosque-nublado-y-cascadas-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/cloud-forest-waterfalls-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/bosque-nublado-y-cascadas-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/cloud-forest-waterfalls-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/bosque-nublado-y-cascadas-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/cloud-forest-waterfalls-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/local-farms-and-producers-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/local-farms-and-producers-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/fincas-y-productores-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/local-farms-and-producers-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/fincas-y-productores-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/local-farms-and-producers-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/fincas-y-productores-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/local-farms-and-producers-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/quito-to-choco-andino-transport/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/quito-to-choco-andino-transport/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/transporte-quito-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/quito-to-choco-andino-transport/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/transporte-quito-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/quito-to-choco-andino-transport/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/transporte-quito-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/quito-to-choco-andino-transport/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/choco-andino-itinerary-one-day/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-itinerary-one-day/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/itinerario-choco-andino-un-dia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-itinerary-one-day/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/itinerario-choco-andino-un-dia/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-itinerary-one-day/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/itinerario-choco-andino-un-dia/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-itinerary-one-day/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/choco-andino-itinerary-two-days/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-itinerary-two-days/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/itinerario-choco-andino-dos-dias/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-itinerary-two-days/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/itinerario-choco-andino-dos-dias/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/choco-andino-itinerary-two-days/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/itinerario-choco-andino-dos-dias/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/choco-andino-itinerary-two-days/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/best-time-to-visit-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/best-time-to-visit-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/mejor-epoca-para-visitar-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/best-time-to-visit-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/mejor-epoca-para-visitar-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/best-time-to-visit-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/mejor-epoca-para-visitar-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/best-time-to-visit-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/family-tours-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/family-tours-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/tours-familiares-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/family-tours-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/tours-familiares-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/family-tours-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/tours-familiares-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/family-tours-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/birdwatching-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/birdwatching-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/avistamiento-de-aves-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/birdwatching-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/avistamiento-de-aves-choco-andino/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/birdwatching-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/avistamiento-de-aves-choco-andino/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/birdwatching-choco-andino/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/mindo-adventure-and-activities/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/mindo-adventure-and-activities/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/aventura-y-actividades-en-mindo/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/mindo-adventure-and-activities/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://chocoandinotours.com/es/aventura-y-actividades-en-mindo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://chocoandinotours.com/mindo-adventure-and-activities/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://chocoandinotours.com/es/aventura-y-actividades-en-mindo/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://chocoandinotours.com/mindo-adventure-and-activities/" />
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

@@ -64,25 +64,39 @@
       try { url = new URL(link.href, window.location.href); } catch (error) { return; }
       const eventName = link.dataset.analyticsEvent
         || (/^(?:wa\.me|api\.whatsapp\.com)$/i.test(url.hostname) ? "whatsapp_click" : null)
-        || (url.origin === window.location.origin ? "internal_link_click" : null);
+        || (url.protocol === "mailto:" ? "email_click" : null)
+        || (url.origin === window.location.origin ? "internal_link_click" : "outbound_link_click");
       if (!eventName) return;
-      window.dataLayer.push({
+      const eventDetails = {
         event: eventName,
         page_type: pageType,
         link_text: (link.textContent || "").trim().slice(0, 120),
         link_url: url.href,
         page_location: window.location.href
-      });
-    });
-
-    document.querySelectorAll("a[href*='mindobirdwatching.com']").forEach(function (link) {
-      link.addEventListener("click", function () {
+      };
+      window.dataLayer.push(eventDetails);
+      if (link.classList.contains("btn")) {
+        window.dataLayer.push({
+          event: "cta_click",
+          page_type: pageType,
+          cta_text: eventDetails.link_text,
+          link_url: url.href,
+          page_location: window.location.href
+        });
+      }
+      if (/(^|\.)mindobirdwatching\.com$/i.test(url.hostname)) {
         window.dataLayer.push({
           event: "funnel_to_mbw",
           page_location: window.location.href,
-          destination: link.href
+          destination: url.href
         });
-      });
+      } else if (/(^|\.)mindotours\.com$/i.test(url.hostname)) {
+        window.dataLayer.push({
+          event: "funnel_to_mindotours",
+          page_location: window.location.href,
+          destination: url.href
+        });
+      }
     });
 
   });
