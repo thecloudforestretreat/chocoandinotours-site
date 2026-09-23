@@ -2,7 +2,7 @@
   "use strict";
 
   function titleCase(value) {
-    return String(value || "").toLowerCase().replace(/\b([a-záéíóúñü])/g, function (letter) { return letter.toUpperCase(); });
+    return String(value || "").trim().replace(/\s+/g, " ");
   }
 
   function pushEvent(name, details) {
