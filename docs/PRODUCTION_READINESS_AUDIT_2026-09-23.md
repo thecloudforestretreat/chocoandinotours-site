@@ -35,7 +35,8 @@ Scope: 64 planned indexable URLs, 32 reciprocal English/Spanish page pairs
 - A seven-second upstream timeout returns an accepted/processing response instead of showing a false failure while the CRM continues in the background.
 - First- and last-touch attribution, campaign parameters, click IDs, visitor ID and session ID are attached to submissions.
 - Analytics cover content views, 50% scroll, booking starts/submits/success/errors, CTA clicks, internal links, WhatsApp, email, outbound links and sister-site handoffs.
-- One controlled end-to-end English and Spanish form submission should be repeated on the deployed audit build before production promotion.
+- Controlled English and Spanish staging submissions passed Turnstile and displayed the correct localized success state on the deployed audit build. Test names: `CAT Audit English` and `Auditoría CAT Español`; campaign: `codex_audit / qa / production_readiness`.
+- Downstream inbox, sheet and CRM verification requires the owner's authenticated Gmail and Cloudflare Access sessions. Confirm both test records carry the CAT source before production promotion.
 
 ## Security and delivery
 
@@ -61,7 +62,7 @@ Scope: 64 planned indexable URLs, 32 reciprocal English/Spanish page pairs
 
 1. Review and replace the priority image queue.
 2. Deploy this audit build to staging.
-3. Complete one English and one Spanish end-to-end booking test and verify guest email, admin email, sheet row, CRM source tag and attribution fields.
+3. Verify the two completed audit submissions in the guest inbox, admin inbox, sheet and CRM, including the CAT source tag and attribution fields.
 4. Crawl the deployed staging sitemap and confirm all 64 URLs return 200 with no browser console errors.
 5. Approve promotion from `staging` to `main`.
 6. Confirm production canonical redirects, robots and sitemap.
