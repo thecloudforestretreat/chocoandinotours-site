@@ -16,9 +16,13 @@ No prices, new operating promises, schedules or eligibility limits added. Curren
 - `assets/images/mbw-activities/ziplining-800.webp` ← MBW `assets/images/pages/activities/ziplining/act_ziplining_01.jpg`
 - `assets/images/mbw-activities/river-400.webp` ← MBW `assets/images/pages/activities/tubing/act_tubing_01.jpg`
 - `assets/images/mbw-activities/river-800.webp` ← MBW `assets/images/pages/activities/tubing/act_tubing_01.jpg`
-- `assets/images/mbw-activities/canyoning-400.webp` ← MBW `assets/images/pages/activities/canyoning/act_canyoning_01.jpg`
-- `assets/images/mbw-activities/canyoning-800.webp` ← MBW `assets/images/pages/activities/canyoning/act_canyoning_01.jpg`
+- `assets/images/mbw-activities/canyoning-v2-400.webp` ← MBW `assets/images/pages/activities/canyoning/mbw_activities_canyoning_003.jpeg`
+- `assets/images/mbw-activities/canyoning-v2-800.webp` ← MBW `assets/images/pages/activities/canyoning/mbw_activities_canyoning_003.jpeg`
 - `assets/images/mbw-activities/chocolate-400.webp` ← MBW `assets/images/pages/activities/chocolate-tour/chocolate_tour_vert_01.jpg`
 - `assets/images/mbw-activities/chocolate-800.webp` ← MBW `assets/images/pages/activities/chocolate-tour/chocolate_tour_vert_01.jpg`
 - `assets/images/mbw-activities/birdwatching-400.webp` ← MBW `assets/images/pages/tours/Tours-FD-3.jpg`
 - `assets/images/mbw-activities/birdwatching-800.webp` ← MBW `assets/images/pages/tours/Tours-FD-3.jpg`
+
+## Portrait revision
+
+Owner-selected canyoning photo: `mbw_activities_canyoning_003.jpeg`. Activity comparisons use photo-and-copy cards with the original practical requirements retained in native details disclosures. Videos use native9:16 canvases and accessible centered play buttons. No media starts until clicked. Both languages retain equivalent scope.
