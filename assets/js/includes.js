@@ -87,6 +87,8 @@ function localizeIncludes() {
     else link.removeAttribute("aria-current");
   });
 
+  document.querySelectorAll('[data-copy="footer-parent-label"]').forEach(element => { element.textContent = isSpanish ? "Parte de" : "Part of"; });
+
   const footerIntro = document.querySelector('[data-copy="footer-intro"]');
   const footerLegal = document.querySelector('[data-copy="footer-legal"]');
   if (isSpanish && footerIntro) {
