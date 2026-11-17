@@ -1,0 +1,16 @@
+[
+  {
+    "path": "/404.html",
+    "status": 200,
+    "final_url": "https://chocoandinotours.com/404",
+    "body_file": "/Users/jpg/.codex/visualizations/2026/10/05/01a10c47-88a8-7b20-a920-040038e6c1ea/choco-seo-review-2026-11-17/production-release-readback/846c879e19c92a95.html",
+    "headers_file": "/Users/jpg/.codex/visualizations/2026/10/05/01a10c47-88a8-7b20-a920-040038e6c1ea/choco-seo-review-2026-11-17/production-release-readback/846c879e19c92a95.headers.txt"
+  },
+  {
+    "path": "/es/404.html",
+    "status": 200,
+    "final_url": "https://chocoandinotours.com/es/404",
+    "body_file": "/Users/jpg/.codex/visualizations/2026/10/05/01a10c47-88a8-7b20-a920-040038e6c1ea/choco-seo-review-2026-11-17/production-release-readback/9a1ad31242046d61.html",
+    "headers_file": "/Users/jpg/.codex/visualizations/2026/10/05/01a10c47-88a8-7b20-a920-040038e6c1ea/choco-seo-review-2026-11-17/production-release-readback/9a1ad31242046d61.headers.txt"
+  }
+]

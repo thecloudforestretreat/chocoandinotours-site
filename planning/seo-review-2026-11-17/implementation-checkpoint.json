@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-17",
+  "status": "production_verified_records_reconciled",
+  "site": "https://chocoandinotours.com/",
+  "source_repository": "/Volumes/JPG-Server-8TB/01-Projects/Choco Andino Tours/chocoandinotours-site",
+  "branch": "staging",
+  "production_baseline_commit": "9f4f97a",
+  "prior_activity_release": "1721b62420a35fb593181899597cfed888c018a1",
+  "prior_tracking_release": "GTM-NSBP2KS8 version 4; preserve existing lead/handoff/video tags",
+  "technical": {
+    "live_sitemap": 66,
+    "english": 33,
+    "spanish": 33,
+    "SF_lists": "33 English + 33 Spanish complete, exports match exact sitemap, all HTTP 200 and indexable",
+    "fresh_http_inventory": 127,
+    "additional_old_sheet_urls": 61,
+    "old_url_response": "61 historical routes verified localized HTTP 404 with noindex",
+    "live_technical_issues": 0,
+    "limitations": "46 live pages reference image filenames containing placeholder; naming alone does not prove geography/licensing. Broader imagery review deferred."
+  },
+  "gsc": {
+    "period": "2026-10-19 to 2026-11-15",
+    "clicks": 19,
+    "impressions": 778,
+    "ctr_display": "2.4%",
+    "average_position_display": 7.4,
+    "query_rows": 65,
+    "visible_query_clicks": 0,
+    "index_report_last_update": "2026-11-12",
+    "indexed": 47,
+    "not_indexed": 67,
+    "noindex": 42,
+    "redirect": 3,
+    "alternate_canonical": 3,
+    "discovered_not_indexed": 19,
+    "crawled_not_indexed": 0,
+    "supplemental_export": "3-month archive kept separate: 2026-08-16 to 2026-11-15, 27 clicks / 1163 impressions; not mixed with primary 28-day baseline"
+  },
+  "ga4": {
+    "account": "342659363",
+    "property": "555387617",
+    "measurement": "G-737ZDQNTDX",
+    "period": "2026-10-20 to 2026-11-16",
+    "active_users": 115,
+    "views": 198,
+    "events": 617,
+    "key_events": 0,
+    "booking_success_events": 2,
+    "booking_success_users": 1,
+    "funnel_to_mbw_events": 2,
+    "funnel_to_mindotours_events": 1,
+    "activity_video_play_events": 2,
+    "interpretation": "Unfiltered baseline may include marked QA activity. Success event is emitted after HTTP success and data.ok, potentially queued processing. These are not verified paid bookings, delivered CRM leads or revenue.",
+    "recommended_change": "Completed: booking_success enabled prospectively as inquiry key event, verified after reload. Historical baseline unchanged."
+  },
+  "candidate": {
+    "status": "production_verified",
+    "updated_live_paths": [
+      "/choco-andino-travel-guide/",
+      "/things-to-do-in-choco-andino/",
+      "/es/guia-de-viaje-choco-andino/",
+      "/es/que-hacer-en-el-choco-andino/"
+    ],
+    "new_noindex_error_documents": [
+      "/404.html",
+      "/es/404.html"
+    ],
+    "purpose": "Link existing discovery-pending guides from two bilingual hubs and return genuine localized 404 responses for missing routes. No new indexable page or imagery.",
+    "independent_spanish_review": "pending",
+    "analytics_recommendation": "Completed: existing booking_success marked as prospective inquiry key event; no sender change.",
+    "prior_releases_preserved": true,
+    "supporting_stylesheet": "/assets/css/error-pages.css",
+    "sitemap_update": "Four hub lastmod dates updated; exact 66 URLs retained"
+  },
+  "validation": {
+    "repository_audit": "64 approved-plan pages; 26 advisory findings; no high issues",
+    "independent_source_audit": "66 pages / 33 reciprocal language pairs pass; 19 discovery-pending targets receive relevant same-language hub links",
+    "JS_syntax_files": 9,
+    "whitespace": "pass",
+    "desktop_mobile": "Four hub modules and both localized error pages visually inspected at desktop and 390px mobile width; no full real-device test claimed",
+    "analytics_privacy": "No test inquiry sent; only booking_success key-event setting enabled.",
+    "staging_routing": "Protected staging and production readbacks passed: 66 live pages, 61 historical 404s, two random 404s, exact sitemap."
+  },
+  "sheet": {
+    "spreadsheet_id": "1LJi_VxoNEOE7cK4_wgQJB8VCohI_-T6xq_IBvmy39v4",
+    "tab": "chocoandinotours_enriched",
+    "gid": 1680062691,
+    "backup": "choco_backup_20261117",
+    "original_rows_preserved": 70,
+    "live_rows": 66,
+    "historical_plan_rows": 61,
+    "unpublished_error_candidates": 0,
+    "total_rows": 129,
+    "columns": 110,
+    "readback": "2074 final changed cells verified by native Sheet readback; 129 records x110 columns; TSV synchronized",
+    "TSV": "choco-enriched-20261117.tsv",
+    "published_noindex_error_documents": 2
+  },
+  "publication": {
+    "committed": true,
+    "pushed": true,
+    "staging_deployed": true,
+    "production_deployed": true,
+    "indexing_requests_accepted": 0,
+    "production_commit": "306dd4ff0f06d409f4aef5505ac5400937d752c1",
+    "pr": "https://github.com/thecloudforestretreat/chocoandinotours-site/pull/4"
+  },
+  "next": [
+    "Retry four hub indexing requests no earlier than 2026-11-18T18:02:24Z; account quota hold; zero requests attempted or accepted this round.",
+    "Review discovery in 7\u201314 days and performance after approximately four weeks.",
+    "Preserve 66-URL sitemap; legacy 64-row generator requires separate correction before future use."
+  ],
+  "approval_hold": {
+    "source": "automatic approval review",
+    "rejected_actions": [
+      "commit",
+      "merge current production into staging",
+      "push shared staging branch",
+      "switch GitHub account",
+      "open draft PR"
+    ],
+    "stated_reason": "User authorized preparing updates but not these repository mutations; explicit approval required.",
+    "actions_executed": false,
+    "production_changed": false,
+    "next_required": "none",
+    "status": "resolved by explicit owner approval 2026-11-17"
+  },
+  "indexing_queue": "indexing-queue.json",
+  "source_hashes": {
+    "choco-andino-travel-guide/index.html": "3b40d91065c5190ee8ec1ca046fd0d1dc904860b4108f85c12b65b6f367e611e",
+    "things-to-do-in-choco-andino/index.html": "a0983f26e53df3ac56337871a296e0198a0b9b48d813557476b8127c6d5f25a2",
+    "es/guia-de-viaje-choco-andino/index.html": "dfa370d157f9f6508b211a2769604828014f1c0ea34906424c70b7a360d18fb4",
+    "es/que-hacer-en-el-choco-andino/index.html": "07e8baa38abd1ed3234b438f2794dc2931ca62341cbf35118d905a4013bc50b6",
+    "404.html": "8a0bf2a541d1505ba1d296e8f06505a38308ea3b14861237ad03a257064c3999",
+    "es/404.html": "15847ed3af1d2e40193c70b0dd40d0ce1708d5dd8385a80a7ea53348c4773c2f",
+    "assets/css/error-pages.css": "08c2b47d527d37823b21f07d7472756eb010f2f66ed1ebf2a249bc87141ed1c8"
+  },
+  "local_usage": {
+    "ollama_calls": 0,
+    "ollama_retries": 0,
+    "ollama_cache_hits": 0,
+    "cloud_costs": "not estimated"
+  }
+}

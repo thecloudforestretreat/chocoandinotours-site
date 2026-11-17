@@ -1,0 +1,784 @@
+{
+  "mode": "production",
+  "live_pages": 66,
+  "old_planned_routes_404": 61,
+  "random_missing_routes_404": 2,
+  "sitemap_exact": true,
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/tours/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/tours/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/experiences/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/experiencias/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/book-tour/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/reservar-tour/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/contact/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/contacto/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/about/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/sobre-nosotros/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-travel-guide/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/guia-de-viaje-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-biosphere-reserve/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/reserva-de-biosfera-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/spectacled-bear-choco-andino-ecuador/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/oso-de-anteojos-choco-andino-ecuador/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/things-to-do-in-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/que-hacer-en-el-choco-andino/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-day-trip-from-quito/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/excursion-choco-andino-desde-quito/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/private-tours-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/tours-privados-choco-andino/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/experiences/cacao-chocolate-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/experiencias/cacao-y-chocolate-choco-andino/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/experiences/coffee-farms-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/experiencias/fincas-de-cafe-choco-andino/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/food-and-culture-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/gastronomia-y-cultura-choco-andino/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/community-tourism-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/turismo-comunitario-choco-andino/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/responsible-travel-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/viaje-responsable-choco-andino/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/yumbo-culture-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/cultura-yumbo-choco-andino/",
+      "status": 200,
+      "lang": "es-EC",
+      "issues": []
+    },
+    {
+      "path": "/tulipe-archaeological-site/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/sitio-arqueologico-tulipe/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/yunguilla-community-tourism/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/turismo-comunitario-yunguilla/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/pacto-choco-andino-guide/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/guia-pacto-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/nanegalito-choco-andino-guide/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/guia-nanegalito-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/mashpi-pachijal-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/mashpi-pachijal-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/mindo-and-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/mindo-y-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/cloud-forest-waterfalls-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/bosque-nublado-y-cascadas-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/local-farms-and-producers-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/fincas-y-productores-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/quito-to-choco-andino-transport/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/transporte-quito-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-itinerary-one-day/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/itinerario-choco-andino-un-dia/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-itinerary-two-days/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/itinerario-choco-andino-dos-dias/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/best-time-to-visit-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/mejor-epoca-para-visitar-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/family-tours-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/tours-familiares-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/birdwatching-choco-andino/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/avistamiento-de-aves-choco-andino/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/mindo-adventure-and-activities/",
+      "status": 200,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/aventura-y-actividades-en-mindo/",
+      "status": 200,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-ecuador/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/cloud-forest-near-quito/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/mindo/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/tandayapa/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/nanegalito/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/mashpi-area/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/maquipucuna/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/pululahua/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/pacto/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-tours/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-birdwatching/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-waterfalls/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-hiking/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-weekend-trips/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-day-trips-from-quito/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/how-to-visit-the-choco-andino/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/best-time-to-visit-the-choco-andino/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/where-to-stay-in-the-choco-andino/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/choco-andino-map/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/plan-a-choco-andino-trip/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/reviews/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/faqs/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/blog/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/blog/what-is-the-choco-andino/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/blog/best-cloud-forest-day-trips-from-quito/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/blog/mindo-vs-mashpi/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/blog/choco-andino-birds-and-wildlife/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/blog/weekend-road-trip-from-quito-to-the-choco-andino/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/blog/best-lodges-in-the-choco-andino/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/waterfalls-near-quito/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/choco-andino-ecuador/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/bosque-nublado-cerca-de-quito/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/mindo/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/tandayapa/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/nanegalito/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/sector-mashpi/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/maquipucuna/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/pululahua/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/pacto/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/tours-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/avistamiento-de-aves-en-el-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/cascadas-del-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/senderismo-en-el-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/escapadas-de-fin-de-semana-al-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/excursiones-al-choco-andino-desde-quito/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/como-visitar-el-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/mejor-epoca-para-visitar-el-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/donde-alojarse-en-el-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/mapa-del-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/planifica-un-viaje-al-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/resenas/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/preguntas-frecuentes/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/blog/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/blog/que-es-el-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/blog/mejores-excursiones-al-bosque-nublado-desde-quito/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/blog/mindo-vs-mashpi/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/blog/aves-y-fauna-del-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/blog/viaje-de-fin-de-semana-desde-quito-al-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/blog/mejores-lodges-del-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/cascadas-cerca-de-quito/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/es/reserva-biosfera-choco-andino/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    },
+    {
+      "path": "/audit-missing-20261117/",
+      "status": 404,
+      "lang": "en",
+      "issues": []
+    },
+    {
+      "path": "/es/audit-missing-20261117/",
+      "status": 404,
+      "lang": "es",
+      "issues": []
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,16 @@
+{
+  "status": "production_verified_account_quota_hold",
+  "urls": [
+    "https://chocoandinotours.com/choco-andino-travel-guide/",
+    "https://chocoandinotours.com/things-to-do-in-choco-andino/",
+    "https://chocoandinotours.com/es/guia-de-viaje-choco-andino/",
+    "https://chocoandinotours.com/es/que-hacer-en-el-choco-andino/"
+  ],
+  "accepted_requests": [],
+  "attempts": [],
+  "boundary": "Do not request indexing until the approved production release and sitemap readback pass. Respect the existing Google account quota hold; no repeated attempts or CAPTCHA bypass. Do not index error documents or blanket-submit the 19 discovery-pending targets.",
+  "production_commit": "306dd4ff0f06d409f4aef5505ac5400937d752c1",
+  "retry_not_before_utc": "2026-11-18T18:02:24Z",
+  "attempts_this_round": 0,
+  "accepted_this_round": 0
+}
